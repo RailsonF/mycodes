@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(161, 209, 161);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.centro{
+    height: 800px;
+    width: 600px;
+    background-color: rgb(75, 134, 75);
+    border: 4px solid;
+    border-color: aquamarine;
+    border-radius: 40px;
+    margin-top: 80px;
+    padding: 40px;
+}
+
+.centro h1{
+    text-align: center;
+    color: white;
+    padding: 100px;
+}
+
+.centro input{
+    font-size: 30px;
+    border-radius: 10px;
+    
+}
